@@ -1,0 +1,8 @@
+如何通过MicroPython的官方工具esptool来烧写MicroPython固件：
+http://docs.micropython.org/en/latest/esp8266/tutorial/intro.html#intro
+
+ESP8266+RC522 MicroPython源码：
+https://github.com/wendlers/micropython-mfrc522
+
+别人在ESP32上是这么做的：
+https://blog.csdn.net/eye_water/article/details/90410723
